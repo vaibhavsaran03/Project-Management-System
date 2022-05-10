@@ -3,13 +3,13 @@ requirements : run requirements.txt file using 'pip install -m requirements.txt'
 
 To Run:
 
-Step 1 : run cd C_Group9/talibised/talibised in teriminal
+Step 1 :   cd /talibised/ 
 
-Step 2 : in the project folder run 'python manage.py makemigrations'
+Step 2 :  'python manage.py makemigrations'
 
-Step 3 : run 'python manage.py migrate'
+Step 3 :  'python manage.py migrate'
 
-Step 4 : run 'python manage.py runserver'
+Step 4 :  'python manage.py runserver'
 
 User:
 
