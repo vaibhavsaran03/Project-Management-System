@@ -48,19 +48,3 @@ Run requirements.txt file using 'pip install -m requirements.txt'
 -Step 3: run 'python manage.py migrate'
 -Step 4: run 'python manage.py runserver'
 
-
-●Sample logins:
-Professor:
--Username - Professor1 | Password - malhotra
--Username - Professor2 | Password - malhotra
--Username - Professor3 | Password - malhotra
-
-TA:
--Username - TA1        | Password - malhotra
--Username - TA2        | Password - malhotra
--Username - TA3        | Password - malhotra
-
-Student:
--Username - Student1   | Password - malhotra
--Username - Student2   | Password - malhotra
--Username - Student3   | Password - malhotra
